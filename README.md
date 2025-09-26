@@ -1,1 +1,1 @@
-# SQL_PIzza_Sales_Project
+# SQL_Pizza_Sales_Project
